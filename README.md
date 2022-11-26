@@ -10,8 +10,8 @@ Docker setup for FastAPI Postgres Redis - initial setup
 ### clone the repo
 ``` git clone https://github.com/mrAvi07/S30-Python-Test-2021.Q4.git ```
 
-### go to the current dir
-``` cd S30-Python-Test-2021.Q4 ```
+### go to the dir
+``` cd FastAPI-Postgres-Docker ```
 
 
 ### create a virtualenv
@@ -19,6 +19,7 @@ Docker setup for FastAPI Postgres Redis - initial setup
 
 ### Run following command
 > **_NOTE:_** make sure docker and docker compose installed on your system
+
 ``` docker compose up ```
 
 ### open the following link in the browser
